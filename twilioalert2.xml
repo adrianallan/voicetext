@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Pause/>
+    <Say voice="woman">Citrix incident in progress. Please check your messages.</Say>
+    <Pause/>
+    <Say voice="woman">Citrix incident in progress. Please check your messages.</Say>
+    <Pause/>
+    <Say voice="woman">Citrix incident in progress. Please check your messages.</Say>
+    <Hangup/>
+</Response>
